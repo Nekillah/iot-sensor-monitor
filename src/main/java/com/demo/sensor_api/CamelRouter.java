@@ -50,3 +50,4 @@ public class CamelRouter extends RouteBuilder {
             });
     }
 }// Ruta validada para la revision final
+ 
